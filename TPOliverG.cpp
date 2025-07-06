@@ -1,7 +1,6 @@
 /*
-Autor: Oliver Gamarra Gonzales.
+Autor: Oliver G.
 fecha: domingo 6 de junio del 2021. hora: 19.00hs. hora a la que empiezo a desarrollar este programa.
-profesora: clara meza.// lo pongo por las dudas .
 materia: algortimos 2.  
 */
 #include<iostream>
@@ -440,7 +439,7 @@ void basica(){
 }
 void sentenciaifelse(){
 	string valor;
-	while(true){ //diseñe esto para que pueda abrir el programa en todos lo uso de manera igual para abrir los archivos.exe
+	while(true){ //diseÃ±e esto para que pueda abrir el programa en todos lo uso de manera igual para abrir los archivos.exe
 		cout<<"Opcion: 1-Ejecutar el programa.\n";
 		cout<<"Opcion: 2-Salir.\n";
 		cout<<"Opcion: ";
